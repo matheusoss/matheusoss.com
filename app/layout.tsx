@@ -1,6 +1,6 @@
 import { mono, sans } from '@/lib/fonts';
 import './globals.css';
-import { Analytics } from '@vercel/analytics/react';
+import { Analytics } from '@vercel/analytics/next';
 import { ThemeProvider } from 'next-themes';
 import type { ReactNode } from 'react';
 import { Toaster } from 'sonner';
